@@ -9,7 +9,7 @@ La société **MINASTIRITH**, entité d'un grand groupe d'organisateurs d'évén
 ## Contenu du repository
 
 ```
-├── BILLETERIE_MINASTIRITH.ipynb   # Notebook principal (SQL + PL-SQL commenté)
+├── BILLETERIE_MINASTIRITH.ipynb
 ├── README.md
 ```
 
